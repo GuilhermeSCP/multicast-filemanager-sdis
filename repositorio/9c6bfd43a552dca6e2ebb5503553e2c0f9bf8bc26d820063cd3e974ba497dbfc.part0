@@ -1,0 +1,1276 @@
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;2454
+final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substfinal String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
+	
+	public Message(String packet) {
+		int i = packet.indexOf(CRLF2);
+		header = packet.substring(0, i+4);
+		data = packet.substring(i+4);
+	}
+	
+	public String[] getHeaderTokens() {
+		String tokens[] = header.split(" ");
+		return tokens;
+	}
+	
+	public String getData() {final String CRLF = "\r\n";
+	final String CRLF2 = CRLF + CRLF;
+	String header;
+	String data;
